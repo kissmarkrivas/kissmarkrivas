@@ -1,7 +1,9 @@
 ### Hi I'm kissmark 👋
-<p align="center">
+<div style="background: white">
+<p align="center" >
   <a href="https://kissmarkrivas.github.io/portafoliokissmark/"><img src="logo_kiss.png" alt="Kissmark Rivas"></a>
 </p>
+</div>
 <!--
 **kissmarkrivas/kissmarkrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
