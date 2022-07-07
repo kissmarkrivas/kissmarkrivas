@@ -1,6 +1,6 @@
 ### Hi I'm kissmark 👋
 <div style="background: white">
-<p align="center" style="background: white">
+<p align="center" background="white">
   <a href="https://kissmarkrivas.github.io/portafoliokissmark/"><img src="logo_kiss.png" alt="Kissmark Rivas"></a>
 </p>
 </div>
